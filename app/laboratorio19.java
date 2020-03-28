@@ -1,4 +1,6 @@
-
+/**
+ * Configurar um caixa eletronico para aceitar saques apenas quando não exceder o limite
+ */
 package app;
 
 import java.util.Scanner;
